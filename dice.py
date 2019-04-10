@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 # Script built to roll some dice
+# Version 0.1
+# Author : Zachary Brasseaux
+# Report bugs to https://github.com/zbrasseaux/diceroll
+# (C) 2019
+# Last Edited : 10 April, 2019
 
 '''
 Error Codes :
