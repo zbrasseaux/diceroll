@@ -35,3 +35,7 @@ Error Codes :
 -	3 : Provided invalid die to roll
 -	4 : No arguments provided
 -	5 : Invalid number of dice to roll
+
+Setup :
+-	run setup.sh with `bash setup.sh` or `./setup.sh`
+-	additionally, you can run `sudo cp ./dice.py /usr/bin/dice`. I only included the `setup.sh` file because some people are lazy.
