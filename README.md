@@ -9,7 +9,7 @@
 
 Welcome to the Dice Machine!
 
-Usage : dice [OPTION]...[NUMBER]...
+Usage : `dice [OPTION]...[NUMBER]...`
 Rolls the dice for you, more info below.
 
 Options:
