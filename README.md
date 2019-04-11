@@ -13,10 +13,10 @@ Usage : `dice [OPTION]...[NUMBER]...`
 Rolls the dice for you, more info below.
 
 Options:
--	-h, --help		Displays this message
--	-c, --character		Rolls a DnD 5th Edition character
--	-p, --percent		Rolls a percent from 1% to 100%
--	-r, --roll [DIE]	Rolls a specified die
+-	-h, --help		|    Displays this message
+-	-c, --character	|	Rolls a DnD 5th Edition character
+-	-p, --percent		|  Rolls a percent from 1% to 100%
+-	-r, --roll [DIE] |	Rolls a specified die
 
 Die:
 -	d2			A 2-sided die (aka a coin...)
