@@ -38,4 +38,4 @@ Error Codes :
 
 Setup :
 -	run setup.sh with `bash setup.sh` or `./setup.sh`
--	additionally, you can run `sudo cp ./dice.py /usr/bin/dice`. I only included the `setup.sh` file because some people are lazy.
+-	additionally, you can run `sudo cp ./dice.py /usr/bin/dice` followed by `sudo chmod 777 /usr/bin/dice`. I only included the `setup.sh` file because some people are lazy.
